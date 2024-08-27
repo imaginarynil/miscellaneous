@@ -4,5 +4,7 @@ A script to obtain the symmetric difference between the "Following" set and the 
 
 ## How to Use
 
+- [Download Instagram information](https://accountscenter.instagram.com/info_and_permissions/dyi/)
+- Extract the archive file
 - Open terminal
 - Run `main.py` with the directory path to the Instagram data as an argument. For example, `python main.py C:/Users/Daniel/Downloads/instagram-data`.
