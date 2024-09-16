@@ -1,0 +1,1 @@
+yt-dlp.exe -f "bestaudio[ext=m4a]" -P YouTube -a input.txt

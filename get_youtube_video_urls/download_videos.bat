@@ -1,0 +1,1 @@
+yt-dlp.exe -f "bestvideo[ext=mp4]" -P YouTube -a input.txt
