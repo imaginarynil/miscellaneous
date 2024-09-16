@@ -1,9 +1,10 @@
 ## Description
 
-Get video urls from a YouTube channel or playlist. `yt-dl` script for audio and video is available.
+Get video urls from a YouTube channel or playlist. `yt-dlp` script for audio and video is available.
 
 ## How To Use
 
+- Download [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases)
 - If source is a YouTube channel
   - Scroll down until you reach the bottom
   - Download urls using `get_urls.js`
